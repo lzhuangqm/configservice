@@ -1,0 +1,10 @@
+测试地址：
+http://localhost:8052/user/dev
+user-dev.properties
+user：是git里文件名前缀
+dev：是git里的文件名后缀
+
+http://localhost:8052/config-client/dev
+config-client-dev.properties
+config-client：是git里文件名前缀
+dev：是git里的文件名后缀
