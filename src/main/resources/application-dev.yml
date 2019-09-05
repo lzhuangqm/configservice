@@ -8,7 +8,7 @@ spring:
       max-file-size: 150MB        #单个文件上传控制在2M
       max-request-size: 150MB    #总上传文件控制在10M
   application:
-    name: service-config
+    name: config-service
   jackson:
     date-format: yyyy-MM-dd HH:mm:ss
     time-zone: GMT+8
