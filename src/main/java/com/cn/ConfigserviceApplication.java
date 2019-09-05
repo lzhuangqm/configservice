@@ -6,8 +6,10 @@ package com.cn;
 import org.springframework.boot.*;
 import org.springframework.boot.autoconfigure.*;
 import org.springframework.cloud.config.server.*;
+import org.springframework.cloud.netflix.eureka.*;
 
 @SpringBootApplication
+@EnableEurekaClient
 @EnableConfigServer
 
 public class ConfigserviceApplication {
