@@ -40,5 +40,5 @@ server:
     worker-threads: 256
     buffer-size: 2048
     direct-buffers: true
-  #address: 192.168.0.208
   max-http-header-size: 10MB
+  #address: 47.105.188.188
